@@ -3,8 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Bella\\Desktop\\Coding Projects\\FlashStudy\\FlashStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDFFA7C9-A9C1-4597-B3A8-E248737F7606}|FlashStudy.csproj|c:\\users\\bella\\desktop\\coding projects\\flashstudy\\flashstudy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BDFFA7C9-A9C1-4597-B3A8-E248737F7606}|FlashStudy.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BDFFA7C9-A9C1-4597-B3A8-E248737F7606}|FlashStudy.csproj|c:\\users\\bella\\desktop\\coding projects\\flashstudy\\flashstudy\\questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFFA7C9-A9C1-4597-B3A8-E248737F7606}|FlashStudy.csproj|solutionrelative:questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFFA7C9-A9C1-4597-B3A8-E248737F7606}|FlashStudy.csproj|C:\\Users\\Bella\\Desktop\\Coding Projects\\FlashStudy\\FlashStudy\\questions\\questiongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFFA7C9-A9C1-4597-B3A8-E248737F7606}|FlashStudy.csproj|solutionrelative:questions\\questiongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FlashStudy||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFFA7C9-A9C1-4597-B3A8-E248737F7606}|FlashStudy.csproj|C:\\Users\\Bella\\Desktop\\Coding Projects\\FlashStudy\\FlashStudy\\studyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFFA7C9-A9C1-4597-B3A8-E248737F7606}|FlashStudy.csproj|solutionrelative:studyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFFA7C9-A9C1-4597-B3A8-E248737F7606}|FlashStudy.csproj|C:\\Users\\Bella\\Desktop\\Coding Projects\\FlashStudy\\FlashStudy\\studyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDFFA7C9-A9C1-4597-B3A8-E248737F7606}|FlashStudy.csproj|solutionrelative:studyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,18 +62,69 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Bella\\Desktop\\Coding Projects\\FlashStudy\\FlashStudy\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Bella\\Desktop\\Coding Projects\\FlashStudy\\FlashStudy\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Bella\\Desktop\\Coding Projects\\FlashStudy\\FlashStudy\\Questions\\Question.cs",
+              "RelativeDocumentMoniker": "Questions\\Question.cs",
+              "ToolTip": "C:\\Users\\Bella\\Desktop\\Coding Projects\\FlashStudy\\FlashStudy\\Questions\\Question.cs",
+              "RelativeToolTip": "Questions\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T19:27:35.165Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-22T00:40:58.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Bella\\Desktop\\Coding Projects\\FlashStudy\\FlashStudy\\Questions\\QuestionGenerator.cs",
+              "RelativeDocumentMoniker": "Questions\\QuestionGenerator.cs",
+              "ToolTip": "C:\\Users\\Bella\\Desktop\\Coding Projects\\FlashStudy\\FlashStudy\\Questions\\QuestionGenerator.cs",
+              "RelativeToolTip": "Questions\\QuestionGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T01:15:46.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlashStudy",
+              "DocumentMoniker": "C:\\Users\\Bella\\Desktop\\Coding Projects\\FlashStudy\\FlashStudy\\FlashStudy.csproj",
+              "RelativeDocumentMoniker": "FlashStudy.csproj",
+              "ToolTip": "C:\\Users\\Bella\\Desktop\\Coding Projects\\FlashStudy\\FlashStudy\\FlashStudy.csproj",
+              "RelativeToolTip": "FlashStudy.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-22T00:07:54.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudyForm.cs",
+              "DocumentMoniker": "C:\\Users\\Bella\\Desktop\\Coding Projects\\FlashStudy\\FlashStudy\\StudyForm.cs",
+              "RelativeDocumentMoniker": "StudyForm.cs",
+              "ToolTip": "C:\\Users\\Bella\\Desktop\\Coding Projects\\FlashStudy\\FlashStudy\\StudyForm.cs",
+              "RelativeToolTip": "StudyForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:33:39.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudyForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bella\\Desktop\\Coding Projects\\FlashStudy\\FlashStudy\\StudyForm.cs",
+              "RelativeDocumentMoniker": "StudyForm.cs",
+              "ToolTip": "C:\\Users\\Bella\\Desktop\\Coding Projects\\FlashStudy\\FlashStudy\\StudyForm.cs [Design]",
+              "RelativeToolTip": "StudyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:27:35.165Z"
             }
           ]
         }

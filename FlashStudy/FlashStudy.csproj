@@ -46,14 +46,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Questions\Question.cs" />
+    <Compile Include="Questions\QuestionGenerator.cs" />
+    <Compile Include="StudyForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="StudyForm.Designer.cs">
+      <DependentUpon>StudyForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="StudyForm.resx">
+      <DependentUpon>StudyForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -62,6 +67,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -75,6 +81,228 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\X.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_34.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_36.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_37.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_38.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_39.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_42.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_43.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_44.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_45.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_46.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_47.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_49.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_52.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_53.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_54.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_55.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_56.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_57.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_58.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_59.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_61.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_62.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_62a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_62b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_63.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_65.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_66.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_67.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_68.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_69.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_70.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Figures\ASA Figures\general_71.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

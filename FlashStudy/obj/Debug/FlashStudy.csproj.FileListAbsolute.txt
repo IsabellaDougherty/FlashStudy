@@ -1,0 +1,10 @@
+C:\Users\Bella\Desktop\Coding Projects\FlashStudy\FlashStudy\bin\Debug\FlashStudy.exe.config
+C:\Users\Bella\Desktop\Coding Projects\FlashStudy\FlashStudy\bin\Debug\FlashStudy.exe
+C:\Users\Bella\Desktop\Coding Projects\FlashStudy\FlashStudy\bin\Debug\FlashStudy.pdb
+C:\Users\Bella\Desktop\Coding Projects\FlashStudy\FlashStudy\obj\Debug\FlashStudy.csproj.AssemblyReference.cache
+C:\Users\Bella\Desktop\Coding Projects\FlashStudy\FlashStudy\obj\Debug\FlashStudy.StudyForm.resources
+C:\Users\Bella\Desktop\Coding Projects\FlashStudy\FlashStudy\obj\Debug\FlashStudy.Properties.Resources.resources
+C:\Users\Bella\Desktop\Coding Projects\FlashStudy\FlashStudy\obj\Debug\FlashStudy.csproj.GenerateResource.cache
+C:\Users\Bella\Desktop\Coding Projects\FlashStudy\FlashStudy\obj\Debug\FlashStudy.csproj.CoreCompileInputs.cache
+C:\Users\Bella\Desktop\Coding Projects\FlashStudy\FlashStudy\obj\Debug\FlashStudy.exe
+C:\Users\Bella\Desktop\Coding Projects\FlashStudy\FlashStudy\obj\Debug\FlashStudy.pdb
