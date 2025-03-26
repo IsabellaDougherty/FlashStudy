@@ -1,0 +1,6 @@
+Question	Figure Name	Correct Answer | Wrong Answer | Wrong Answer | Wrong Answer	Explanation
+Question	Figure Name	Correct Answer | Wrong Answer| Wrong Answer	Explanation
+Question	-	Correct Answer | Wrong Answer | Wrong Answer| Wrong Answer | Wrong Answer	Explanation
+Question	-	Correct Answer | Wrong Answer | Wrong Answer | Wrong Answer	Explanation
+
+An aircraft with an empty weight of 2,100 pounds and an empty weight CG +32.5 was altered as follows:| 1. two 18-pound passenger seats located at +73 were removed;| 2. structural modifications were made at +77 increasing weight by 17 pounds;| 3. a seat and safety belt weighing 25 pounds were installed at +74.5; and| 4. radio equipment weighing 35 pounds was installed at +95.| What is the new empty weight CG?	-	+33.68|+34.01|+34.65	ITEM WEIGHT ARM MOMENT|Aircraft 2,100 32.5 68,250|Seats (remove) 36(-) 73 2,628(-)|Modification 17 77 1,309|Seat 25 74.5 1,862.5|Radio 35 95 3,325|TOTAL 2,141 33.68 72,118.5|The new empty weight is 2,141 pounds, and the CG is located at fuselage station 33.68.

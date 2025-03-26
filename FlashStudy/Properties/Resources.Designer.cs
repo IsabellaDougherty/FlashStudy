@@ -61,6 +61,15 @@ namespace FlashStudy.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string General {
+            get {
+                return ResourceManager.GetString("General", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap general_1 {
@@ -786,6 +795,16 @@ namespace FlashStudy.Properties {
         internal static System.Drawing.Bitmap general_9 {
             get {
                 object obj = ResourceManager.GetObject("general_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Untitled_Artwork {
+            get {
+                object obj = ResourceManager.GetObject("Untitled_Artwork", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

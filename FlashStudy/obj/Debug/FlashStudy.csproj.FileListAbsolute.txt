@@ -8,3 +8,7 @@ C:\Users\Bella\Desktop\Coding Projects\FlashStudy\FlashStudy\obj\Debug\FlashStud
 C:\Users\Bella\Desktop\Coding Projects\FlashStudy\FlashStudy\obj\Debug\FlashStudy.csproj.CoreCompileInputs.cache
 C:\Users\Bella\Desktop\Coding Projects\FlashStudy\FlashStudy\obj\Debug\FlashStudy.exe
 C:\Users\Bella\Desktop\Coding Projects\FlashStudy\FlashStudy\obj\Debug\FlashStudy.pdb
+C:\Users\Bella\Desktop\Coding Projects\FlashStudy\FlashStudy\bin\Debug\CustomControls.dll
+C:\Users\Bella\Desktop\Coding Projects\FlashStudy\FlashStudy\bin\Debug\CustomControls.pdb
+C:\Users\Bella\Desktop\Coding Projects\FlashStudy\FlashStudy\obj\Debug\FlashStudy.csproj.Up2Date
+C:\Users\Bella\Desktop\Coding Projects\FlashStudy\FlashStudy\obj\Debug\FlashStudy.FigureForm.resources

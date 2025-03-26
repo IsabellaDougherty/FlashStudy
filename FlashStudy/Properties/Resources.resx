@@ -118,226 +118,232 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="general_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="general_22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="general_13" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_14" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_14.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_15" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_15.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_17" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_17.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_18" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_18.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_19" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_19.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_20" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_21" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_22" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_23" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_23.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_25" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_25.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_26" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_26.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_27" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_27.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_28" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_28.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_29" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_29.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_30" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_30.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_31" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_33" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_33.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_34" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_34.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_35" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_35.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_36" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_36.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_37" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_37.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_38" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_38.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_39" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_39.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_40" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_40.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_41" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_41.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_42" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_42.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_43" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_43.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_44" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_44.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_45" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_45.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_46" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_46.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_47" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_47.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_48" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_49" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_49.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_50" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_51" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_51.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_52" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_52.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_53" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_53.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_54" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_54.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_55" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_55.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_56" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_56.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_57" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_57.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_58" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_58.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_59" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_59.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_60" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_60.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_61" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_61.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_62" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_62.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_62a" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_62a.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_62b" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_62b.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_63" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_63.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_65" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_65.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_66" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_66.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_67" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_67.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_68" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_68.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_69" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_69.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="general_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\Resources\Images\Figures\ASA Figures\general_13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="general_70" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_70.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\Resources\Images\Figures\ASA Figures\general_70.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="general_71" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_71.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="general_55" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_55.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_65" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_65.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_62b" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_62b.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_15.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_25" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_25.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_63" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_63.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_52" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_52.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_49" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_49.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_47" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_47.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_36" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_36.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_35" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_35.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_38" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_38.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_68" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_68.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_45" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_45.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_23.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_41" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_41.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_42" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_42.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_14.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_26.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_17.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_28" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_28.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="general_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\Resources\Images\Figures\ASA Figures\general_8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="general_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Figures\ASA Figures\general_9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="general_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_44" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_44.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_30.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_59" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_59.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_69" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_69.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_54" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_54.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_66" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_66.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_57" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_57.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_37" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_37.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_43" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_43.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="General" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\QuestionSets\General.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="general_40" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_40.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_33.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="X" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\X.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\Resources\Images\X.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_51" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_51.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_61" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_61.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_27" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_27.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_19.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_29" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_29.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_50" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_34" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_34.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_71" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_71.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_58" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_58.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_67" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_67.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_56" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_56.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_62" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_62.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_53" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_53.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_18.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_60" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_60.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_62a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_62a.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_46" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_46.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="general_39" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Images\Figures\ASA Figures\general_39.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled_Artwork" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled_Artwork.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

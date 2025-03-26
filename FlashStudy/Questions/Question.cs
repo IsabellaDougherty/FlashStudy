@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 
@@ -11,6 +12,7 @@ namespace FlashStudy.Questions
         private string figureName;
         private string[] figureNames;
         public string[] answers;
+        public int numAnswers;
         public string explanation;
         public Image figure;
         public Image[] figures;
@@ -21,6 +23,7 @@ namespace FlashStudy.Questions
         {
             question = q; explanation = explain;
             answers = new string[a.Length]; answers = a;
+            numAnswers = a.Length;
             hasFigure = false;
             multipleFigures = false;
         }
@@ -61,13 +64,47 @@ namespace FlashStudy.Questions
         }
         // IAD 3/21/2025: Get methods for the class.
         public string GetQuestion() { return question; }
+        /// IAD 3/23/2025 <summary> Returns the figure associated with the question. If the question has multiple figures, the method will return the first figure associated with the question. </summary> <returns></returns>
         public Image GetFigure() { return figure; }
-        public Image[] GetFigures() { if (multipleFigures) return figures; else return null; }
+        /// IAD 3/23/2025 <summary>
+        /// Returns an array of all figures associated with the question. If only one figure is associated with the question, the array will only contain one element. </summary> <returns></returns>
+        public Image[] GetFigures()
+        {
+            if (multipleFigures) return figures;
+            else if (hasFigure) return new Image[] { figure };
+            else return null;
+        }
+        /// IAD 3/23/2025 <summary> Returns the number of figures associated with the question. If no figures are associated with the question, the method will return 0. </summary> <returns></returns>
+        public int GetNumFigures() { return figureNames.Length; }
+        /// IAD 3/23/2025 <summary> Returns an array of all figure names associated with the question. If only one figure is associated with the question, the array will only contain one element. </summary> <returns></returns> </summary> <returns></returns>
         public string[] GetAnswers() { return answers; }
+        /// IAD 3/23/2025 <summary> Returns the explanation for the question. </summary> <returns></returns>
         public string GetExplanation() { return explanation; }
+        /// IAD 3/23/2025 <summary> Returns true if the question has a figure associated with it. </summary> <returns></returns>
         public Boolean HasFigure() { return hasFigure; }
+        /// IAD 3/23/2025 <summary> Returns true if the question has multiple figures associated with it. </summary> <returns></returns>
         public Boolean IsMultipleFigures() { return multipleFigures; }
         /// IAD 3/21/2025 <summary> Returns the correct answer to the question. </summary> <returns></returns>
         public string GetRightAnswer() { return answers[0]; }
+        /// IAD 3/23/2025 <summary> Randomizes the order of the answers to the question. </summary> <returns></returns>
+        public string[] RandomizeAnswers()
+        {
+            List<int> randInts = new List<int>();
+            List<string> randAnsList = new List<string>();
+            string[] randAns = new string[answers.Length];
+            int random;
+            //List of 0-answer length and fill it then pull random values
+            for (int i = 0; i < answers.Length; i++) { randInts.Add(i); }
+            Random rand = new Random();
+            while (randInts.Count > 0) 
+            { 
+                random = rand.Next(0, randInts.Count);
+                randAnsList.Add(answers[randInts[random]]);
+                randInts.RemoveAt(random);
+            }
+            randAns = randAnsList.ToArray();
+            for (int i = 0; i < randInts.Count; i++) { randAns[i] = answers[randInts[i]]; }
+            return randAns;
+        }
     }
 }
